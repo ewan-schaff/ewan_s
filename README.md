@@ -1,7 +1,7 @@
-# Hi there 👋, I'm [Ewan Schaffhauser]
+# Hi there 👋, I'm Ewan Schaffhauser
 
 Welcome to my GitHub profile!  
-I'm a 20-year-old student in my third year of the Grande Ecole program at Epitech Mulhouse, passionate about software development and new technologies.
+I'm a 20-year-old student in my third year of the Grande Ecole program at Epitech Mulhouse.
 
 ---
 
